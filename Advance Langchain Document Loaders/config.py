@@ -1,0 +1,6 @@
+pdf_file = r"documents\sensors-22-08281-v3.pdf"
+csv_file = r"documents\test_csv.csv"
+png_file = r"documents\essay.png"
+json_file = r"documents\sample1.json"
+html_file = r"documents\index.html"
+md_file = r"documents\README.md"
