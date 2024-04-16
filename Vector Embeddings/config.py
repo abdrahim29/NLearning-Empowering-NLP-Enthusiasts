@@ -1,0 +1,11 @@
+PDF_FILE_PATH = r"documents\sensors-22-08281-v3.pdf"
+CSV_FILE_PATH = r"documents\test_csv.csv"
+PNG_FILE_PATH = r"documents\essay.png"
+TRELLO_API_KEY = "c1d0ab29f6e55b5e08c4aa9bfa726d46"
+TRELLO_TOKEN = "a553d6135e1d50552116be088b9a61f7448f12a74b83353ebd4d9f6acbe31d7e"
+TRELLO_BOARD_NAME = "mentorship"
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 20
+embed_model = "BAAI/bge-small-en-v1.5"
+is_load = False
+index_name = "book"
